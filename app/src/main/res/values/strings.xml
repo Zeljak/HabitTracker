@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Running Diary</string>
+    <string name="add_run">Add your run</string>
+    <string name="running_textview">Running Diary</string>
+
+</resources>
